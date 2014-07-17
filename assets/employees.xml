@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee id = "2163">
+	    <name>Kumar</name>
+		<department>Development</department>
+		<type>Permanent</type>		
+		<email>kumar@tot.com</email>
+		<address>
+	        <line1>1201 Main Rd</line1>
+	        <city>Peoria</city>
+	        <state>Illinois</state>
+	        <zipcode>61606</zipcode>
+   		</address>
+	</employee>
+	
+	<employee id = "6743">
+		<name>Ram</name>
+		<department>DB</department>
+		<type>Contract</type>		
+		<email>ram@tot.com</email>
+		<address>
+	        <line1>163 Main Street</line1>
+	        <city>Chennai</city>
+	        <state>TN</state>
+	        <zipcode>600001</zipcode>
+   		</address>
+	</employee>
+	
+	<employee id = "6763">
+	    <name>Timmy</name>
+		<department>Testing</department>
+		<type>Permanent</type>		
+		<email>timmy@tot.com</email>
+		<address>
+	        <line1>2163 1st Avenue</line1>
+	        <city>Chicago</city>
+	        <state>Illinois</state>
+	        <zipcode>60631</zipcode>
+   		</address>
+	</employee>
+</employees>
